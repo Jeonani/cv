@@ -1,3 +1,3 @@
 # Norxojaev Rashidxon
 
-### 
+### Student
