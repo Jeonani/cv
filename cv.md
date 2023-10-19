@@ -17,6 +17,14 @@
 
 ******
 
+### Languages:
+
+## Russian
+
+## English
+
+## Uzbek
+
 ## Skills:
 
 * HTML 
