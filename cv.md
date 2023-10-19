@@ -1,3 +1,3 @@
-# Jeonani
+# Norxojaev Rashidxon
 
-### Vs Code
+### 
