@@ -13,7 +13,7 @@
 
 ### About my self:
 
-# My name is Rashidxon, i am 13 years old and i am a student 8th class. I am learning programming, my english level is Pre-intermadiate. I think it's enough information about me.
+### My name is Rashidxon, i am 13 years old and i am a student 8th class. I am learning programming, my english level is Pre-intermadiate. I think it's enough information about me.
 
 ******
 
