@@ -17,14 +17,16 @@
 
 ******
 
-### Languages:
-
-## Russian
-
-## English
-
-## Uzbek
-
 ## Skills:
 
-* HTML 
+* HTML
+
+******
+
+## Languages:
+
+### Russian
+
+### English
+
+### Uzbek
